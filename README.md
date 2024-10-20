@@ -1,16 +1,14 @@
-## Hi there 👋
+# 👋 Hello, I'm Alex!
 
-<!--
-**AlexO124/AlexO124** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Welcome to my GitHub profile! I'm a passionate USF Computer science major 
 
-Here are some ideas to get you started:
+## 🌍 Connect with Me
+- [LinkedIn](www.linkedin.com/in/aforta2006)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 📫 How to Reach Me
+Feel free to reach out via At3ch12@gmail.com if you have any questions, or just want to chat!
+
+## 🎉 Fun Fact
+I enjoy playing video games with friends,reading manga and listening to music in my free time and I'm always looking for new adventures!
+
+Thanks for stopping by! 😊
